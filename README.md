@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricioibzde&label=Profile%20views&color=0e75b6&style=flat" alt="mauricioibzde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauricioibzde" alt="mauricioibzde" /></a> </p>
-
 - 🔭 I’m currently working on [my own website.](https://github.com/Mauricioibzde)
 
 - 📫 How to reach me **m.fariasdasilva@hotmail.com**
