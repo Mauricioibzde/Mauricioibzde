@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **m.fariasdasilva@hotmail.com**
 
-- ⚡ Fun fact **I'm a breakdancer.**
+- ⚡ Fun fact **My other hobby is breakdancing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
