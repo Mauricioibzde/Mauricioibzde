@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">I am passionate about software development and eager to start my professional journey through an apprenticeship where I can learn from experienced professionals and contribute to innovative projects.</h3>
 
-- 🔭 I’m currently working on [my first own website.](https://github.com/Mauricioibzde)
+- 🔭 I’m currently working on [my first own website.]
 
 - 📫 How to reach me **m.fariasdasilva@hotmail.com**
 
