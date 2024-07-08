@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">I am passionate about software development and eager to start my professional journey through an apprenticeship where I can learn from experienced professionals and contribute to innovative projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricioibzde&label=Profile%20views&color=0e75b6&style=flat" alt="mauricioibzde" /> </p>
-
 - 🔭 I’m currently working on [my own website.](https://github.com/Mauricioibzde)
 
 - 📫 How to reach me **m.fariasdasilva@hotmail.com**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricioibzde&show_icons=true&locale=en&layout=compact" alt="mauricioibzde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauricioibzde&show_icons=true&locale=en" alt="mauricioibzde" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauricioibzde&" alt="mauricioibzde" /></p>
