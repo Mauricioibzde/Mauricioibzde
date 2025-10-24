@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Mauricio!
 
-I'm a passionate **Fullstack Developer in training** based in Munich, Germany 🇩🇪.  
+I’m a motivated aspiring **Fullstack Developer** based in Munich, Germany 🇩🇪.  
+My dream is to start an apprenticeship as an IT specialist for application development in Munich.
 Currently, I'm taking the **Rocketseat Fullstack course**, always building new projects and learning new skills.
 
 I love creating clean, modern web applications and improving my skills in both **frontend** and **backend** development.  
