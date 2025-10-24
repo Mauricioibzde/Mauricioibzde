@@ -1,5 +1,3 @@
-NAT VERSION: 
-
 ## 👋 Hi, I'm Mauricio!
 
 I'm a passionate **Fullstack Developer in training** based in Munich, Germany 🇩🇪.  
